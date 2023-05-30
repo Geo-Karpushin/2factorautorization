@@ -1,0 +1,14 @@
+github.com/boombuler/barcode v1.0.1-0.20190219062509-6c824513bacc h1:biVzkmvwrH8WK8raXaxBx6fRVTlJILwEwQGL1I/ByEI=
+github.com/boombuler/barcode v1.0.1-0.20190219062509-6c824513bacc/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
+github.com/boombuler/barcode v1.0.1 h1:NDBbPmhS+EqABEs5Kg3n/5ZNjy73Pz7SIV+KCeqyXcs=
+github.com/boombuler/barcode v1.0.1/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/pquerna/otp v1.4.0 h1:wZvl1TIVxKRThZIBiwOOHOGP/1+nZyWBil9Y2XNEDzg=
+github.com/pquerna/otp v1.4.0/go.mod h1:dkJfzwRKNiegxyNb54X/3fLwhCynbMspSyWKnvi1AEg=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/tristanwietsma/otp v0.0.0-20190922150329-7cd6aa16c703 h1:GgTFPm6Ae6j7iWa4+VFWUts2uOSXziybWMNjeAM2ZIU=
+github.com/tristanwietsma/otp v0.0.0-20190922150329-7cd6aa16c703/go.mod h1:HP8XBJSeo8JsnCNS+vv1gn6aJg8GOjajCdqP5dJjmC0=
+github.com/tristanwietsma/rsc v0.0.0-20160501025122-4c4a91f7d6ba h1:LsOh6ywPUyUQJZ+CprJx38DZN4lRvTqc0ShKpVx+QyU=
+github.com/tristanwietsma/rsc v0.0.0-20160501025122-4c4a91f7d6ba/go.mod h1:g3gUDvBOc1rWfIiP9fgot/KwxUdBgdjzLSFAt4QHcg8=
